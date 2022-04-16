@@ -1,0 +1,9 @@
+  "name": "Galactic Con",
+    "website": "https://galacticfinance.io",
+    "description": "Galactic Coin is a unique ecosystem of decentralized, blockchain-based networks. It's a governance token of Galactic Finance which is growing to be the leading crypto exchange in a number of countries, and their side organizations are attracting significant interest as well.",
+    "explorer": "https://bscscan.com/token/0x8Cb63Bb97fDa239B2AfCFf9Ce3d82eC23f66e820",
+    "type": "BEP20",
+    "symbol": "GLXT",
+    "decimals": 9,
+    "status": "active",
+    "id": "0x8Cb63Bb97fDa239B2AfCFf9Ce3d82eC23f66e820"
